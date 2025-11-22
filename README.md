@@ -109,7 +109,3 @@ The core endpoint used by the frontend to trigger analysis.
       }
     }
     ```
-
-## 📝 License
-
-[Include your license here, e.g., MIT]
